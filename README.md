@@ -34,11 +34,11 @@ This portfolio is a showcase of my learning journey, skills, and projects.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nithya-g-aa8941188/)
 - 
-- 🐙 [GitHub](https://github.com/Nithurty123)
+- 🐙 [GitHub](https://github.com/Nithurdy123)
 - 
 - 📧 [Email](mailto:gaddamnithyareddy@gmail.com)
 - 
-- 🖥️ [Portfolio](https://github.com/Nithurty123)
+- 🖥️ [Portfolio](https://github.com/Nithurdy123)
 
 
 <!--
