@@ -34,8 +34,8 @@ This portfolio is a showcase of my learning journey, skills, and projects.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nithya-gaddamm-aa8941189)
 - 🐙 [GitHub](https://github.com/Nithurdy123)
-- 📧 [Email](mailto:gaddamnithyareddy@gmail.com)
 - 🖥️ [Portfolio](https://github.com/Nithurdy123)
+- 📧 [Email](mailto:gaddamnithyareddy@gmail.com)
 
 
 <!--
