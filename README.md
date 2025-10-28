@@ -32,12 +32,9 @@ This portfolio is a showcase of my learning journey, skills, and projects.
 ---
 ## 🌐 Find Me Online
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nithya-g-aa8941188/)
-- 
+- 💼 [LinkedIn](https://www.linkedin.com/in/nithya-gaddamm-aa8941189)
 - 🐙 [GitHub](https://github.com/Nithurdy123)
-- 
 - 📧 [Email](mailto:gaddamnithyareddy@gmail.com)
-- 
 - 🖥️ [Portfolio](https://github.com/Nithurdy123)
 
 
