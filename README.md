@@ -38,6 +38,7 @@ This portfolio is a showcase of my learning journey, skills, and projects.
 
 [Email](mailto:gaddamnithyareddy@gmail.com)
 
+Portfolio: github.com/Nithurty123
 
 <!--
 **Nithurdy123/Nithurdy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
