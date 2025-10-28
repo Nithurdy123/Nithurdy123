@@ -30,15 +30,16 @@ This portfolio is a showcase of my learning journey, skills, and projects.
 - Tech: Python, Pandas
 
 ---
-
 ## 🌐 Find Me Online
-[LinkedIn](https://www.linkedin.com/in/nithya-gaddamm-aa8941189)
 
-[GitHub](https://github.com/Nithurdy123)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nithya-g-aa8941188/)
+- 
+- 🐙 [GitHub](https://github.com/Nithurty123)
+- 
+- 📧 [Email](mailto:gaddamnithyareddy@gmail.com)
+- 
+- 🖥️ [Portfolio](https://github.com/Nithurty123)
 
-[Email](mailto:gaddamnithyareddy@gmail.com)
-
-Portfolio: github.com/Nithurdy123
 
 <!--
 **Nithurdy123/Nithurdy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
