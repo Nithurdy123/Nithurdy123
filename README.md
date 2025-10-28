@@ -1,16 +1,19 @@
 # 👋 Hi, I'm Nithya Gaddam!
 
-🎯 **Aspiring Quantitative Engineer | Python | Big Data | Risk Analytics | Automation**
+🎯 **Aspiring Quantitative Engineer | Gen AI | Big Data | Risk Analytics | Automation**
 
 I'm passionate about building simple but meaningful projects in data and risk analytics.
 This portfolio is a showcase of my learning journey, skills, and projects.
 
 ---
 
-## 🛠 Skills
-- **Programming:** Python, Java, SQL  
-- **Tools & Frameworks:** Pandas, PySpark (beginner), Git, Jupyter Notebook  
-- **Focus Areas:** ETL, Risk Analytics, Regulatory Testing, Automation
+## 🛠 Technical Skills
+
+- **Programming:** Python, Java, SQL, Scala, C++  
+- **Big Data & Analytics:** PySpark, Hadoop, Spark, Pandas, NumPy, Tableau, Power BI  
+- **Quantitative Engineering:** Model lifecycle, classification models, surveillance models, risk analytics  
+- **Process Improvement:** ETL optimization, automated testing, monitoring, performance tuning  
+- **Software Development Lifecycle (SDLC):** Agile, DevOps, Git, CI/CD,
 
 ---
 
@@ -30,7 +33,9 @@ This portfolio is a showcase of my learning journey, skills, and projects.
 
 ## 🌐 Find Me Online
 [LinkedIn](https://www.linkedin.com/in/nithya-gaddamm-aa8941189)
+
 [GitHub](https://github.com/Nithurdy123)  
+
 [Email](mailto:gaddamnithyareddy@gmail.com)
 
 
