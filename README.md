@@ -1,21 +1,45 @@
 # 👋 Hi, I'm Nithya Gaddam!
 
-🎯 **Aspiring Quantitative Engineer | Gen AI | Big Data | Risk Analytics | Automation**
+🎯 Business Analyst | AI & Data Analytics | Healthcare Analytics | Process Optimization | Automation
 
-I'm passionate about building simple but meaningful projects in data and risk analytics.
-This portfolio is a showcase of my learning journey, skills, and projects.
-
----
+I’m passionate about solving business problems using data, improving processes, and building analytics solutions that drive measurable impact.
+This portfolio showcases my learning journey, analytical skills, and real-world projects across business analysis, data analytics, and healthcare insights.
 
 ## 🛠 Technical Skills
 
-- **Programming:** Python, Java, SQL, Scala, C++  
-- **Big Data & Analytics:** PySpark, Hadoop, Spark, Pandas, NumPy, Tableau, Power BI  
-- **Quantitative Engineering:** Model lifecycle, classification models, surveillance models, risk analytics  
-- **Process Improvement:** ETL optimization, automated testing, monitoring, performance tuning  
-- **Software Development Lifecycle (SDLC):** Agile, DevOps, Git, CI/CD,
+- Business Analysis: Requirements Gathering, User Stories, Process Mapping, Gap Analysis, BRD/FRD, Workflow Modeling
 
----
+Data & Analytics: SQL, Python, Excel (PivotTables, PowerQuery), Power BI, Tableau
+
+Healthcare Analytics: Claims analysis, Utilization management insights, KPI dashboards, Quality metrics
+
+Process & Optimization: Process Mapping, RCA, ETL improvement, Automation, KPI tracking
+
+Tools & Systems: JIRA, Confluence, MS Visio, Azure DevOps, Git, SDLC Documentation
+
+Methodologies: Agile, Scrum, Waterfall, UAT Planning, Stakeholder Engagement
+
+💼 Professional Experience
+
+AI Business Analyst — Mayo Clinic                        Jun 2025 – Present
+
+Lead healthcare analytics solutions across utilization, claims trends, and provider performance.
+Build SQL data models and Power BI dashboards supporting enterprise decision-making.
+Partner with clinical, operational, and financial teams to translate business needs into analytics.
+Automate reporting workflows using Python, improving efficiency and reducing errors.
+
+AI Data Analyst — Walgreens Boots Alliance               May 2024 – Apr 2025
+
+Delivered insights across pharmacy, retail health, and operations using SQL, Python, and BI tools.
+Built automated pipelines and dashboards to track cost drivers, patient behavior, and network trends.
+Worked with product, finance, and operations teams to improve reporting and analytics accuracy.
+
+Data Analyst — Intel Corporation                         Jun 2021 – Apr 2023
+
+Extracted, cleaned, and modeled large datasets using SQL and Python for enterprise operations.
+Built predictive models and performance dashboards for resource and cost optimization.
+Conducted trend analysis, RCA, KPI modeling, and analytics documentation.
+
 
 ## 🚀 Projects
 
