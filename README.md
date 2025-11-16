@@ -40,45 +40,49 @@ Conducted trend analysis, RCA, KPI modeling, and analytics documentation.
 
 1. Healthcare Utilization & Claims Analytics System (Flagship Project)
 
-Description:End-to-end claims analytics pipeline with dashboards for:
+Description: End-to-end claims analytics pipeline with dashboards for:
 high-cost members
 provider performance
 avoidable utilization
 medical cost trends
 
 Tech:SQL • Python • Power BI • Pandas
+
 Business Value:Helps health plans identify cost drivers & utilization spikes.
 
 2. AI-Driven Reporting Automation for Clinical Operations
 
-Description:Automates weekly & monthly healthcare reporting using Python scripts:
+Description: Automates weekly & monthly healthcare reporting using Python scripts:
 pulls SQL data
 cleans & validates
 generates Power BI refresh
 emails automated summaries
 
 Tech:Python • SQL • Cron • Power BI API
+
 Business Value:Reduces analyst workload by 40%.
 
  3. Risk Adjustment Insights Dashboard (HCC Modeling)
 
-Description:Builds risk scores using simplified HCC-based logic:
+Description: Builds risk scores using simplified HCC-based logic:
 member condition grouping
 predicted vs actual utilization
 risk-score distribution
 
 Tech:Python • Power BI
+
 Business Value:Shows knowledge of risk adjustment huge for healthcare roles.
 
 4. Pharmacy Utilization & Cost Optimization Dashboard
 
-Description:Analyze pharmacy claims:
+Description: Analyze pharmacy claims:
 drug cost trends
 generic vs brand mix
 prescriber patterns
 high-cost categories
 
 Tech: SQL • Power BI
+
 Business Value:Matches your Walgreens experience perfectly.
 
 ---
