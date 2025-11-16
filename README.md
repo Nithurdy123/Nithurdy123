@@ -7,19 +7,14 @@ This portfolio showcases my learning journey, analytical skills, and real-world 
 
 ## 🛠 Technical Skills
 
-- Business Analysis: Requirements Gathering, User Stories, Process Mapping, Gap Analysis, BRD/FRD, Workflow Modeling
-
+Business Analysis: Requirements Gathering, User Stories, Process Mapping, Gap Analysis, BRD/FRD, Workflow Modeling
 Data & Analytics: SQL, Python, Excel (PivotTables, PowerQuery), Power BI, Tableau
-
 Healthcare Analytics: Claims analysis, Utilization management insights, KPI dashboards, Quality metrics
-
 Process & Optimization: Process Mapping, RCA, ETL improvement, Automation, KPI tracking
-
 Tools & Systems: JIRA, Confluence, MS Visio, Azure DevOps, Git, SDLC Documentation
-
 Methodologies: Agile, Scrum, Waterfall, UAT Planning, Stakeholder Engagement
 
-💼 Professional Experience
+## 💼 Professional Experience
 
 AI Business Analyst — Mayo Clinic                        Jun 2025 – Present
 
@@ -41,17 +36,50 @@ Built predictive models and performance dashboards for resource and cost optimiz
 Conducted trend analysis, RCA, KPI modeling, and analytics documentation.
 
 
-## 🚀 Projects
+##Projects
 
-### 📊 [Risk Analytics Big Data Pipeline](https://github.com/Nithurty123/risk-analytics-bigdata-pipeline)
-- Built a beginner-friendly ETL pipeline in Python to simulate financial risk data.
-- Added classification logic for high vs. low risk and automated output.
-- Tech: Python, Pandas
+1. Healthcare Utilization & Claims Analytics System (Flagship Project)
 
-### 🧪 [Regulatory Testing Framework](https://github.com/Nithurty123/regulatory-testing-framework)
-- Automated risk flagging for compliance validation.
-- Simulates model testing and reporting pipeline.
-- Tech: Python, Pandas
+Description:End-to-end claims analytics pipeline with dashboards for:
+high-cost members
+provider performance
+avoidable utilization
+medical cost trends
+
+Tech:SQL • Python • Power BI • Pandas
+Business Value:Helps health plans identify cost drivers & utilization spikes.
+
+2. AI-Driven Reporting Automation for Clinical Operations
+
+Description:Automates weekly & monthly healthcare reporting using Python scripts:
+pulls SQL data
+cleans & validates
+generates Power BI refresh
+emails automated summaries
+
+Tech:Python • SQL • Cron • Power BI API
+Business Value:Reduces analyst workload by 40%.
+
+ 3. Risk Adjustment Insights Dashboard (HCC Modeling)
+
+Description:Builds risk scores using simplified HCC-based logic:
+member condition grouping
+predicted vs actual utilization
+risk-score distribution
+
+Tech:Python • Power BI
+Business Value:Shows knowledge of risk adjustment huge for healthcare roles.
+
+4. Pharmacy Utilization & Cost Optimization Dashboard
+
+Description:Analyze pharmacy claims:
+drug cost trends
+generic vs brand mix
+prescriber patterns
+high-cost categories
+
+Tech: SQL • Power BI
+Business Value:Matches your Walgreens experience perfectly.
 
 ---
 ## 🌐 Find Me Online
