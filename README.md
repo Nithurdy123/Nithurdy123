@@ -15,28 +15,28 @@ Tools & Systems: JIRA, Confluence, MS Visio, Azure DevOps, Git, SDLC Documentati
 Methodologies: Agile, Scrum, Waterfall, UAT Planning, Stakeholder Engagement
 
 ## 💼 Professional Experience
-
-AI Business Analyst — Mayo Clinic                        Jun 2025 – Present
+ 
+AI Business Analyst — Mayo Clinic                                                                                                                                      Jun 2025 – Present
 
 Lead healthcare analytics solutions across utilization, claims trends, and provider performance.
 Build SQL data models and Power BI dashboards supporting enterprise decision-making.
 Partner with clinical, operational, and financial teams to translate business needs into analytics.
 Automate reporting workflows using Python, improving efficiency and reducing errors.
 
-AI Data Analyst — Walgreens Boots Alliance               May 2024 – Apr 2025
+AI Data Analyst — Walgreens Boots Alliance                                                                                                                            May 2024 – Apr 2025
 
 Delivered insights across pharmacy, retail health, and operations using SQL, Python, and BI tools.
 Built automated pipelines and dashboards to track cost drivers, patient behavior, and network trends.
 Worked with product, finance, and operations teams to improve reporting and analytics accuracy.
 
-Data Analyst — Intel Corporation                         Jun 2021 – Apr 2023
+Data Analyst — Intel Corporation                                                                                                                                     Jun 2021 – Apr 2023
 
 Extracted, cleaned, and modeled large datasets using SQL and Python for enterprise operations.
 Built predictive models and performance dashboards for resource and cost optimization.
 Conducted trend analysis, RCA, KPI modeling, and analytics documentation.
 
 
-##Projects
+##  Projects
 
 1. Healthcare Utilization & Claims Analytics System (Flagship Project)
 
